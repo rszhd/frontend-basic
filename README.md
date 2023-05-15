@@ -1,1 +1,1 @@
-# Supadocs - Basic Web Development Course
+# Supadocs - Interactive Programming Courseware with AI Tutor
